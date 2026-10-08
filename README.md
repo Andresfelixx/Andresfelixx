@@ -5,8 +5,7 @@
 ### 🎓 Aprendiz SENA | Desarrollador en Formación
 
 [![SENA](https://img.shields.io/badge/SENA-00324D?style=for-the-badge&logo=sena&logoColor=39A900)](https://www.sena.edu.co/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parraaguilarandresfelipe@gmail.com)
 
 ---
 
