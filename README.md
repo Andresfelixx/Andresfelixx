@@ -25,7 +25,7 @@ Me destaco por ser una persona proactiva, disciplinada y con un alto compromiso 
 
 ## 📋 Información Académica (SENA)
 
-- **Programa de Formación:** [Ej. Análisis y Desarrollo de Software - ADSO]
+- **Programa de Formación:** [Análisis y Desarrollo de Software - ADSO]
 - **Número de Ficha:** [3381732]
 - **Centro de Formación:** [Centro Industrial de Mantenimiento Integral]
 - **Etapa Actual:** Lectiva
