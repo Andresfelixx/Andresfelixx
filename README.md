@@ -1,51 +1,74 @@
 <div align="center">
 
-# 📚 Mis Prácticas y Evidencias de Git & GitHub
+# 👋 ¡Hola! Soy Andrés Felipe Parra Aguilar
 
-**SENA - Servicio Nacional de Aprendizaje**  
-*Aprendiz:* **Andrés Felipe Parra Aguilar**
+### 🎓 Aprendiz SENA | Desarrollador en Formación
 
-[![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![SENA](https://img.shields.io/badge/SENA-00324D?style=for-the-badge&logo=sena&logoColor=39A900)](https://www.sena.edu.co/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@gmail.com)
 
 ---
 
-> Repositorio destinado a organizar y documentar las actividades, evidencias y ejercicios prácticos de control de versiones desarrollados durante las sesiones de clase.
+> *"En búsqueda activa de oportunidades para aplicar mis conocimientos, aportar valor a un equipo de trabajo y crecer profesionalmente en el sector tecnológico."*
 
 </div>
 
 ---
 
-## 🎯 Objetivos del Repositorio
+## 👨‍💻 Sobre Mí
 
-- **Comprender los fundamentos:** Flujo de trabajo local y remoto con Git y GitHub.
-- **Gestión de versiones:** Creación de commits, manejo de historial y revertir cambios.
-- **Trabajo con ramas:** Creación de `branches`, fusion de código (`merge`) y resolución de conflictos.
-- **Colaboración:** Uso de `pull requests`, `forks` y trabajo en equipo.
+¡Bienvenido/a a mi perfil! Soy **Andrés Felipe Parra Aguilar**, aprendiz del **SENA (Servicio Nacional de Aprendizaje)**. 
 
----
-
-## 🛠️ Comandos Aprendidos y Utilizados
-
-| Comando | Descripción |
-| :--- | :--- |
-| `git init` | Inicializa un nuevo repositorio local. |
-| `git clone <url>` | Clona un repositorio remoto en la máquina local. |
-| `git status` | Muestra el estado de los archivos en el área de trabajo y staging. |
-| `git add .` | Agrega los cambios al área de preparación (Staging Area). |
-| `git commit -m "mensaje"` | Guarda los cambios en el historial con un mensaje descriptivo. |
-| `git branch <nombre>` | Crea una nueva rama para trabajar en características independientes. |
-| `git checkout` / `git switch` | Cambia entre diferentes ramas del repositorio. |
-| `git merge <rama>` | Une los cambios de una rama a la rama actual. |
-| `git push origin <rama>` | Sube las modificaciones al repositorio remoto en GitHub. |
-| `git pull` | Descarga e integra los cambios del repositorio remoto. |
+Me destaco por ser una persona proactiva, disciplinada y con un alto compromiso por el aprendizaje continuo. Durante mi proceso de formación he adquirido habilidades fundamentales en lógica de programación, control de versiones, trabajo colaborativo y buenas prácticas de desarrollo.
 
 ---
 
-## 📂 Estructura del Repositorio
+## 📋 Información Académica (SENA)
 
-```text
-├── evidencias/          # Guías y talleres resueltos para la clase
-├── practicas/           # Ejercicios independientes de comandos y ramas
-└── README.md            # Documentación del repositorio
+- **Programa de Formación:** [Ej. Análisis y Desarrollo de Software - ADSO]
+- **Número de Ficha:** [Tu número de ficha]
+- **Centro de Formación:** [Ej. Centro de Electricidad, Electrónica y Telecomunicaciones]
+- **Etapa Actual:** Lectiva / En preparación para Etapa Práctica
+
+---
+
+## 🛠️ Competencias y Habilidades Técnicas
+
+### Control de Versiones & Trabajo en Equipo
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+### Tecnologías en Proceso de Formación
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 🌟 Habilidades Blandas
+
+- 🧠 **Resolución de problemas:** Capacidad de análisis para descomponer problemas complejos.
+- 🤝 **Trabajo en equipo:** Adaptabilidad y comunicación asertiva con compañeros e instructores.
+- ⏱️ **Organización y responsabilidad:** Gestión del tiempo para la entrega puntual de evidencias y proyectos.
+- 📚 **Autogestión:** Curiosidad constante por aprender nuevas tecnologías fuera del aula.
+
+---
+
+## 💼 ¿Interesado/a en mi perfil para Etapa Práctica o Empleo?
+
+Estoy disponible para vincularme a procesos de selección para contrato de aprendizaje o etapas de práctica laboral.
+
+- 📧 **Correo Electrónico:** [tu-email@gmail.com]
+- 💼 **LinkedIn:** [Perfil de LinkedIn](https://linkedin.com/in/tu-usuario)
+- 📍 **Ubicación:** [Tu ciudad, Colombia]
+
+---
+
+<div align="center">
+
+¡Gracias por visitar mi repositorio! 🙌
+
+</div>
