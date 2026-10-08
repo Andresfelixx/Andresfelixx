@@ -27,9 +27,9 @@ Me destaco por ser una persona proactiva, disciplinada y con un alto compromiso 
 ## 📋 Información Académica (SENA)
 
 - **Programa de Formación:** [Ej. Análisis y Desarrollo de Software - ADSO]
-- **Número de Ficha:** [Tu número de ficha]
-- **Centro de Formación:** [Ej. Centro de Electricidad, Electrónica y Telecomunicaciones]
-- **Etapa Actual:** Lectiva / En preparación para Etapa Práctica
+- **Número de Ficha:** [3381732]
+- **Centro de Formación:** [Centro Industrial de Mantenimiento Integral]
+- **Etapa Actual:** Lectiva
 
 ---
 
@@ -61,9 +61,8 @@ Me destaco por ser una persona proactiva, disciplinada y con un alto compromiso 
 
 Estoy disponible para vincularme a procesos de selección para contrato de aprendizaje o etapas de práctica laboral.
 
-- 📧 **Correo Electrónico:** [tu-email@gmail.com]
-- 💼 **LinkedIn:** [Perfil de LinkedIn](https://linkedin.com/in/tu-usuario)
-- 📍 **Ubicación:** [Tu ciudad, Colombia]
+- 📧 **Correo Electrónico:** [parraaguilarandresfelipe@gmail.com]
+- 📍 **Ubicación:** [Giron, Santander]
 
 ---
 
